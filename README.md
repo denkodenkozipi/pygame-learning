@@ -1,2 +1,11 @@
-# pygame-learning
-A repository dedicated to learning Pygame library. Here I will store my projects, experiments, and progress
+# Pygame Learning
+
+Этот репозиторий посвящен моему пути изучения библиотеки Pygame для создания игр на Python
+
+
+###################################
+
+- [ ] Изучить основы Pygame
+- [ ] Создать простенькие проекты
+      
+###################################

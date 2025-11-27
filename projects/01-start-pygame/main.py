@@ -1,5 +1,3 @@
-from operator import truediv
-
 import pygame
 import sys
 
